@@ -6,9 +6,9 @@ class Jatek {
       this.current = 0;
   
       this.allQuestions = {
-        'What is Canada\'s national animal?': ['Beaver', 'Duck', 'Horse', 0],
-        'What is converted into alcohol during brewing?': ['Grain', 'Sugar', 'Water', 1],
-        'In what year was Prince Andrew born?': ['1955', '1960', '1970', 1]
+        'First question?': ['answer1', 'answer2', 'answer3', 0],
+        'Second question?': ['answer1', 'answer2', 'answer3', 1],
+        'Third question?': ['answer1', 'answer2', 'answer3', 1]
       };
     }
   
