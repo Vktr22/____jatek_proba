@@ -101,5 +101,5 @@ class Jatek {
         loadQuestion(current);
         loadAnswers(current);
         
-    };
+    };  
 }
