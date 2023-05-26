@@ -55,7 +55,7 @@ class Jatek {
   }
 
   addChecker(bool) {
-    var createDiv = document.createElement("div");
+    this.checker.append(`div`);
     var txt = document.createTextNode(this.current + 1);
 
     createDiv.appendChild(txt);
