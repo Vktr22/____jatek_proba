@@ -1,0 +1,7 @@
+{
+  "allQuestions" : {
+        "First question?": ["answer1", "answer2", "answer3", 0],
+        "Second question?": ["answer1", "answer2", "answer3", 1],
+        "Third question?": ["answer1", "answer2", "answer3", 1]
+    }
+}
